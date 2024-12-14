@@ -1,4 +1,4 @@
-# Ethical Research and Engineering: Website Prototype
+# Ethical Research and Engineering: Website Prototype by Bibek Mainali
 
 ## Overview
 This website prototype is designed to teach youth the foundations of ethical research and engineering. It provides an engaging and educational platform to introduce key ethical concepts and principles, offering tools for aspiring engineers to navigate real-world challenges responsibly.
