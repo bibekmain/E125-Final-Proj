@@ -48,7 +48,7 @@ This website prototype is designed to teach youth the foundations of ethical res
 - Include a discussion forum for users to engage with peers and experts.
 
 ## Acknowledgments
-This project draws upon concepts learned in class and reflects a commitment to fostering ethical understanding in engineering practices.
+This project draws upon concepts learned in UC Berkeley's Ethics, Engineering, and Society Fall 2024 (ENGIN125) course and reflects a commitment to fostering ethical understanding in engineering practices.
 
 ---
 
